@@ -16,7 +16,7 @@ const sentences = [
   'How vexingly quick daft zebras jump!',
 ];
 
-const TypingGame = () => {
+const TouchTyping = () => {
   const [currentSentence, setCurrentSentence] = useState('');
   const [typedText, setTypedText] = useState('');
   const [nextCharacters, setNextCharacters] = useState('');
@@ -177,4 +177,4 @@ const TypingGame = () => {
   );
 };
 
-export default TypingGame;
+export default TouchTyping;
