@@ -1,5 +1,5 @@
 import "./App.css";
-import TypingGame from './Components/TouchTyping/index'
+import TouchTyping from './Components/TypingGame/index'
 
 function App() {
   return (
