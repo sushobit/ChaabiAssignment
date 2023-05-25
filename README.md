@@ -6,10 +6,9 @@ build a web-based application for touch typing.
 - WPM
 - Accuracy
 - Key Presses
+- Animations
 
 ##Video 
-
-
-https://github.com/sushobit/ChaabiAssignment/assets/120631631/ccfdc123-1a3a-4cc5-b03e-620c1ad7095f
+https://github.com/sushobit/ChaabiAssignment/assets/120631631/2e58d6ae-0d38-4bfb-a1e3-288047614a17
 
 ##Deployment Link:- [chaabi-assignment-ovy96fr-sushobit](https://chaabi-assignment-ovy96fpzr-sushobit.vercel.app)
