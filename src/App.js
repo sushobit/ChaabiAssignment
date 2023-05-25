@@ -1,10 +1,10 @@
 import "./App.css";
-import TypingGame from './Components/TypingGame/index'
+import TypingGame from './Components/TouchTyping/index'
 
 function App() {
   return (
     <div className="App">
-      <TypingGame />
+      <TouchTyping />
     </div>
   );
 }
